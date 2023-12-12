@@ -51,6 +51,8 @@ const TicketDetailsNavigator = () => {
   );
 };
 
+
+
 const TicketSubmissionNavigator = () => {
   return (
     <TicketSubmitStack.Navigator>
